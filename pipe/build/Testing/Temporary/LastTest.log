@@ -1,0 +1,378 @@
+Start testing: Nov 16 19:04 EST
+----------------------------------------------------------
+1/25 Testing: EmptyTest
+1/25 Test: EmptyTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/empty_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"EmptyTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTest" end time: Nov 16 19:04 EST
+"EmptyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/25 Testing: ExitFalseTest
+2/25 Test: ExitFalseTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/exit_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--test" "f"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ExitFalseTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ExitFalseTest" end time: Nov 16 19:04 EST
+"ExitFalseTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/25 Testing: ExitInvalidTest
+3/25 Test: ExitInvalidTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/exit_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--test" "i"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ExitInvalidTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ExitInvalidTest" end time: Nov 16 19:04 EST
+"ExitInvalidTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/25 Testing: ExitFalseInvalidTest
+4/25 Test: ExitFalseInvalidTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/exit_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--test" "fi"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ExitFalseInvalidTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ExitFalseInvalidTest" end time: Nov 16 19:04 EST
+"ExitFalseInvalidTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/25 Testing: ExitInvalidFalseTest
+5/25 Test: ExitInvalidFalseTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/exit_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--test" "if"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ExitInvalidFalseTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ExitInvalidFalseTest" end time: Nov 16 19:04 EST
+"ExitInvalidFalseTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/25 Testing: ChildrenOneTest
+6/25 Test: ChildrenOneTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "1"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenOneTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenOneTest" end time: Nov 16 19:04 EST
+"ChildrenOneTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/25 Testing: ChildrenTwoTest
+7/25 Test: ChildrenTwoTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "2"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenTwoTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenTwoTest" end time: Nov 16 19:04 EST
+"ChildrenTwoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/25 Testing: ChildrenThreeTest
+8/25 Test: ChildrenThreeTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "3"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenThreeTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenThreeTest" end time: Nov 16 19:04 EST
+"ChildrenThreeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/25 Testing: ChildrenFourTest
+9/25 Test: ChildrenFourTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "4"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenFourTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenFourTest" end time: Nov 16 19:04 EST
+"ChildrenFourTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/25 Testing: ChildrenFiveTest
+10/25 Test: ChildrenFiveTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "5"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenFiveTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenFiveTest" end time: Nov 16 19:04 EST
+"ChildrenFiveTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/25 Testing: ChildrenSixTest
+11/25 Test: ChildrenSixTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "6"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenSixTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenSixTest" end time: Nov 16 19:04 EST
+"ChildrenSixTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/25 Testing: ChildrenSevenTest
+12/25 Test: ChildrenSevenTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "7"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenSevenTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenSevenTest" end time: Nov 16 19:04 EST
+"ChildrenSevenTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/25 Testing: ChildrenEightTest
+13/25 Test: ChildrenEightTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "8"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenEightTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenEightTest" end time: Nov 16 19:04 EST
+"ChildrenEightTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/25 Testing: ChildrenNineTest
+14/25 Test: ChildrenNineTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "9"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenNineTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenNineTest" end time: Nov 16 19:04 EST
+"ChildrenNineTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/25 Testing: ChildrenTenTest
+15/25 Test: ChildrenTenTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/children_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--children" "10"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"ChildrenTenTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ChildrenTenTest" end time: Nov 16 19:04 EST
+"ChildrenTenTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/25 Testing: PipeOneTest
+16/25 Test: PipeOneTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "1"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeOneTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PipeOneTest" end time: Nov 16 19:04 EST
+"PipeOneTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/25 Testing: PipeTwoTest
+17/25 Test: PipeTwoTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "2"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeTwoTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PipeTwoTest" end time: Nov 16 19:04 EST
+"PipeTwoTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/25 Testing: PipeThreeTest
+18/25 Test: PipeThreeTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "3"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeThreeTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PipeThreeTest" end time: Nov 16 19:04 EST
+"PipeThreeTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/25 Testing: PipeFourTest
+19/25 Test: PipeFourTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "4"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeFourTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PipeFourTest" end time: Nov 16 19:04 EST
+"PipeFourTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/25 Testing: PipeFiveTest
+20/25 Test: PipeFiveTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "5"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeFiveTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PipeFiveTest" end time: Nov 16 19:04 EST
+"PipeFiveTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/25 Testing: PipeSixTest
+21/25 Test: PipeSixTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "6"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeSixTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PipeSixTest" end time: Nov 16 19:04 EST
+"PipeSixTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/25 Testing: PipeSevenTest
+22/25 Test: PipeSevenTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "7"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeSevenTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PipeSevenTest" end time: Nov 16 19:04 EST
+"PipeSevenTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/25 Testing: PipeEightTest
+23/25 Test: PipeEightTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "8"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeEightTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PipeEightTest" end time: Nov 16 19:04 EST
+"PipeEightTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/25 Testing: PipeNineTest
+24/25 Test: PipeNineTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/pipe_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe" "--pipes" "9"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"PipeNineTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"PipeNineTest" end time: Nov 16 19:04 EST
+"PipeNineTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/25 Testing: StdinTest
+25/25 Test: StdinTest
+Command: "/usr/bin/python3.9" "/homes/w/wangc471/ece344/ece344/pipe/tests/stdin_test.py" "--executable" "/homes/w/wangc471/ece344/ece344/pipe/build/pipe"
+Directory: /homes/w/wangc471/ece344/ece344/pipe/build/tests
+"StdinTest" start time: Nov 16 19:04 EST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"StdinTest" end time: Nov 16 19:04 EST
+"StdinTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 16 19:04 EST
