@@ -1,1 +1,1 @@
-# ECE344
+# ECE344 - Operating Systems
