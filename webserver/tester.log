@@ -1,0 +1,4 @@
+Mon 05 Dec 2022 06:25:58 PM EST
+Running cachesize experiment. Output goes to plot-cachesize.out
+./run-one-experiment: line 70: 3295437 Segmentation fault      ./server $PORT $NR_THREADS $MAX_REQUESTS $CACHE_SIZE > server.log
+Cachesize experiment done.
